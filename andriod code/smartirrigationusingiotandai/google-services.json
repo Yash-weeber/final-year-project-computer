@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "870185758757",
+    "firebase_url": "https://arduino-c6006-default-rtdb.firebaseio.com",
+    "project_id": "arduino-c6006",
+    "storage_bucket": "arduino-c6006.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870185758757:android:2b805df612bc1f20a4cfcc",
+        "android_client_info": {
+          "package_name": "app.vit.smartgardener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870185758757-iq7aq7sao8pdjj1pcdrghsn5t8e1kfqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQaPtbUmiIsN1nU9dfaVu4MULgRrPGd2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "870185758757-iq7aq7sao8pdjj1pcdrghsn5t8e1kfqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
